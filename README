@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "init: envio de site do Allan Dias totalmente otimizado"
+git branch -M main
+git remote add origin https://github.com/pato77763/dias.git
+git push -u origin main
